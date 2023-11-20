@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\atrus\Dropbox\elec\pr\nanobox\nanobox_v31_upgrade\Project Outputs for nanobox_v31_upgrade\Pick Place\Pick Place for nanobox_v31.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/08/23
+Time:       14:39
+Revision:   30acddf1d1f5ae53aeecc094efcf84a813f471cf
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R1","0R 2512 1W","TopLayer","RESC2512(6432)_M","19.0500","13.9928","180","Res Thick Film 2512 0 Ohm Molded SMD Automotive Blister T/R"
+"J1","504050-1091","TopLayer","FP-504050-1091-MFG","19.7000","7.1450","180","Conn Wire to Board HDR 10 POS 1.5mm Solder RA SMD Pico-Lock™ T/R"
+"LED13","L1C1-CYN1000000000","TopLayer","LUXEON_C_WIDE","24.4000","24.4000","0","LUXEON C High Power Surface Mount LED Emitter Cyan 350 mA 2.6 V"
+"LED12","L1C1-BLU1000000000","TopLayer","LUXEON_C_WIDE","8.3500","19.0000","0","LED LUXEON BLUE 470NM L1"
+"LED11","L1C1-MNT1000000000","TopLayer","LUXEON_C_WIDE","24.4000","35.2000","0","LUXEON C High Power Surface Mount LED Emitter Mint 350 mA 2.75 V"
+"LED10","L1C1-MNT1000000000","TopLayer","LUXEON_C_WIDE","13.7000","24.4000","90","LUXEON C High Power Surface Mount LED Emitter Mint 350 mA 2.75 V"
+"LED9","LED_THERMAL","TopLayer","VIOSYS_Z5","13.7000","35.2000","90",""
+"LED8","L1C1-VLT1000000000","TopLayer","LUXEON_C_WIDE","19.0500","29.8000","90","LED Uni-Color Violet 430nm 2-Pin SMD EP T/R"
+"LED7","L1C1-RYL1000000000","TopLayer","LUXEON_C_WIDE","29.7500","29.8000","270","High Power LEDs - Single Color Royal Blue"
+"LED6","L1C1-RYL1000000000","TopLayer","LUXEON_C_WIDE","19.0500","40.6000","0","High Power LEDs - Single Color Royal Blue"
+"LED5","L1C1-RYL1000000000","TopLayer","LUXEON_C_WIDE","8.1224","29.8000","90","High Power LEDs - Single Color Royal Blue"
+"LED4","L1C1-RYL1000000000","TopLayer","LUXEON_C_WIDE","19.0500","19.0000","90","High Power LEDs - Single Color Royal Blue"
+"LED3","L1C1-3090000000000","TopLayer","LUXEON_C_WIDE","29.7500","19.0000","270","LED Chip Warm White 3000K 1225mA 2-Pin SMD T/R"
+"LED2","L1C1-5790000000000","TopLayer","LUXEON_C_WIDE","29.7500","40.6000","270","LUXEON C Color High Power LED Emitter Cool White 90 CRI 5700K 80 lm Min 350 mA"
+"LED1","L1C1-5790000000000","TopLayer","LUXEON_C_WIDE","8.3500","40.6000","90","LUXEON C Color High Power LED Emitter Cool White 90 CRI 5700K 80 lm Min 350 mA"
